@@ -5,13 +5,12 @@ function deObjetoAmatriz(objeto){
   // un par clave-valor en forma de matriz.
   //Ejemplo: 
   /*objeto({
-      D: 1,
-      B: 2,
-      C: 3
+    //clave  D: 1,  //objeto de clave          //valor
+    //clave  B: 2,  //objeto de clave          //valor
+    //clave  C: 3   //objeto de clave          //valor
     }) ➞ [["D", 1], ["B", 2], ["C", 3]]*/
-  //Escribe tu código aquí
-}
-
+  //Escribe tu código aquí:
+}{{{}}}
 
 function numberOfCharacters(string) {
   //La función recibe un string. Recorre el srting y devuelve el caracter con el número de veces que aparece 
